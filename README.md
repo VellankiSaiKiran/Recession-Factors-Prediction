@@ -3,3 +3,6 @@ Economic recessions, defined by significant declines in market activity and outp
 
 Objective:
 The core objective of this research is to analyze the interaction between key economic indicators and their predictive power over unemployment rates during times of economic recession in the United States, spanning the last fifty years. The study will examine the Consumer Price Index (CPI), unemployment rates, Federal Funds rate, S&P500 index, and Gross Domestic Product (GDP), both individually and collectively, to identify patterns that may signal impending shifts in unemployment. The goal is to determine if these historical trends can be used to forecast future changes in unemployment rates, especially in the post-COVID economic environment.
+
+
+To execute the project... download the whole folder and run the Report.Rproj file with RStudio..  and then click on run all ..
